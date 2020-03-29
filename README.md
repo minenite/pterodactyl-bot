@@ -1,4 +1,4 @@
-# pterodactyl-bot
+# Pterodactyl Bot
 A bot to interact with the pterodactyl api through discord.
 ## License Info
 Under no circumstances do you have permission to remove the footer text which is a trademark of the bot.
