@@ -1,0 +1,11 @@
+const Discord = require("discord.js")
+const settings = require("../settings.json")
+
+module.exports.run = (client, message, args) => {
+
+    
+}
+module.exports.help = {
+    name: ""
+  }
+
