@@ -7,7 +7,7 @@ module.exports.run = (client, message, args) => {
         if (!row) {
             message.reply(`Check your dm's to register with the panel!`)
             const embed1 = new Discord.MessageEmbed()
-                .setTitle("Please enter your token below. You can get one at ${settings.panelURL}/account/api. You have 60 seconds!")
+                .setTitle(`Please enter your token below. You can get one at ${settings.panelURL}/account/api. You have 60 seconds!`)
                 .setColor(settings.embed.color.default)
                 .setFooter(settings.embed.footer);
             message.author.send(embed1).then(async (d) => {
