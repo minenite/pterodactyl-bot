@@ -12,4 +12,5 @@ Check the WIKI for more indepth support.
 If you need support with the bot join my [discord server](https://discord.gg/jtktcP4) or dm directly. 
 > My discord username and tag is doge#1234
 ### Updates
-Future updates are possible and may include admin functions such as creating users, servers, and getting priveledged information with a admin api key.
+Future updates are possible and may include admin functions such as creating users, servers, and getting priveledged information with a admin api key. 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W71NX66)
