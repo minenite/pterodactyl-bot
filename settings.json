@@ -1,13 +1,16 @@
 {
-    "prefix": "",
-    "token": "",
-    "owner": "",
-    "embed": {
-        "footer": "made by doge#1234",
-        "color": {
-            "error": 13382185,
-            "default": "#0CDF66"
-        }
-    },
-    "panelURL": ""
+  "defaultPrefix": "p.",
+  "token": "",
+  "ownerID": "",
+  "embed": {
+    "footer": "made by doge#1234",
+    "color": {
+      "error": 13382185,
+      "default": "#0CDF66"
+    }
+  },
+  "panelURL": "",
+  "mongodb": {
+    "url": ""
+  }
 }
